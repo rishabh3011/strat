@@ -1,2 +1,1 @@
-# strat
-new one 
+hi everyone
